@@ -45,6 +45,8 @@ python main.py --train-flag True --cuda-device-no 0 --imsize 256 --cropsize 240 
 ```
 python main.py --train-flag False --cuda-device-no 0 --imsize 256 --model-load-path trained_models/transform_network.pth --test-content imgs/content/chicago.jpg --output stylized.png
 ```
+### File colab to try
+You can try to train and test due to this link [colab](https://colab.research.google.com/drive/1lak2GRcVZbFLuLPttBC76f81UR2e-_Ny?usp=sharing)
 
 Results
 --
