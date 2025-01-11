@@ -51,7 +51,7 @@ def real_time_style_transfer(model_path, cuda_device_no=0, imsize=256):
     cv2.destroyAllWindows()
 
 # Define paths
-model_path = "Path&original_img/model/Nét_Bút_Chì.pth"
+model_path = "Path&original_img/model/anime.pth"
 cuda_device_no = 0  # Use GPU 0, or set -1 for CPU
 
 # Run the real-time style transfer
